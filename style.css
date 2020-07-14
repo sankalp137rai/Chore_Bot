@@ -55,4 +55,42 @@ body {
     cursor: pointer;
     margin-bottom: 21px;
   }
-  
+.score-row{
+  text-align: center;
+  font-family: 'Work Sans';
+  margin: 20px auto;
+  text-align: center;
+  width: 100%;
+}
+.score-row .score-text{
+  margin-right: 17px;
+  padding: 5px;
+  display: inline;
+  font-family: 'Work Sans';
+  font-size: 12px;
+  letter-spacing: 1.1px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.score-row .score-box{
+  margin-top: 9px;
+  display: inline-block;
+  padding: 8px;
+  margin: 18px;
+  margin-right: 29px;
+  width: 59px;
+  background-color: #00ffff;
+  font-family: 'Work Sans';
+  font-size: 45px;
+}
+.footer{
+  margin-top: 20px;
+  height: 50px;
+  text-align: center;
+  background-color: #00ffff;
+}
+.footer p{
+  color: #010165;
+  font-family: 'Work Sans';
+  margin: auto auto;
+}
